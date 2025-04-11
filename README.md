@@ -17,3 +17,5 @@ O objetivo do jogo é matar o maximo de inimigos e acumular pontos. Cada inimigo
 ![Captura de tela 2025-04-11 193657](https://github.com/user-attachments/assets/1a5c81ea-f58e-4517-9de2-b9ef8348b64a)
 ![Captura de tela 2025-04-11 193729](https://github.com/user-attachments/assets/9c09f5c3-dc34-4c72-b2ef-f89fe2c4ef91)
 ![Captura de tela 2025-04-08 202802](https://github.com/user-attachments/assets/75fea495-59c2-4524-8694-9d5ca8ccd497)
+
+Link do jogo: https://fua13.itch.io/archergame
