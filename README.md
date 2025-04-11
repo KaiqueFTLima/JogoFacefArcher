@@ -14,4 +14,6 @@ O objetivo do jogo é matar o maximo de inimigos e acumular pontos. Cada inimigo
 ![Captura de tela 2025-04-08 202433](https://github.com/user-attachments/assets/e1284d1a-0a90-47f8-857a-aa180f933b6b)
 ![Captura de tela 2025-04-08 202341](https://github.com/user-attachments/assets/dbd949e9-9c6b-450b-ab8c-8bfb6d155f66)
 ![Captura de tela 2025-04-08 202219](https://github.com/user-attachments/assets/ac7d56d1-2522-407c-80ad-76ff631b8aba)
+![Captura de tela 2025-04-11 193657](https://github.com/user-attachments/assets/1a5c81ea-f58e-4517-9de2-b9ef8348b64a)
+![Captura de tela 2025-04-11 193729](https://github.com/user-attachments/assets/9c09f5c3-dc34-4c72-b2ef-f89fe2c4ef91)
 ![Captura de tela 2025-04-08 202802](https://github.com/user-attachments/assets/75fea495-59c2-4524-8694-9d5ca8ccd497)
